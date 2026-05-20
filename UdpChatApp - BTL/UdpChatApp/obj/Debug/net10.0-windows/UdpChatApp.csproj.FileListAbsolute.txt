@@ -1,0 +1,14 @@
+C:\Users\ADMIN\UdpChatApp\bin\Debug\net10.0-windows\UdpChatApp.exe
+C:\Users\ADMIN\UdpChatApp\bin\Debug\net10.0-windows\UdpChatApp.deps.json
+C:\Users\ADMIN\UdpChatApp\bin\Debug\net10.0-windows\UdpChatApp.runtimeconfig.json
+C:\Users\ADMIN\UdpChatApp\bin\Debug\net10.0-windows\UdpChatApp.dll
+C:\Users\ADMIN\UdpChatApp\bin\Debug\net10.0-windows\UdpChatApp.pdb
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.AssemblyInfo.cs
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.dll
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\refint\UdpChatApp.dll
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.pdb
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\UdpChatApp.genruntimeconfig.cache
+C:\Users\ADMIN\UdpChatApp\obj\Debug\net10.0-windows\ref\UdpChatApp.dll
